@@ -21,7 +21,6 @@ jobs:
         cd /usr/src/gtest
         sudo cmake .
         sudo make
-        sudo cp *.a /usr/lib
 
     - name: Configure project
       run: cmake -S . -B build
