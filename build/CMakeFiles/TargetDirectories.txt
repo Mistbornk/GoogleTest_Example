@@ -1,4 +1,0 @@
-/Users/mistborn/Desktop/VScode/C++/gtest_demo/build/CMakeFiles/calculator_test.dir
-/Users/mistborn/Desktop/VScode/C++/gtest_demo/build/CMakeFiles/test.dir
-/Users/mistborn/Desktop/VScode/C++/gtest_demo/build/CMakeFiles/edit_cache.dir
-/Users/mistborn/Desktop/VScode/C++/gtest_demo/build/CMakeFiles/rebuild_cache.dir
